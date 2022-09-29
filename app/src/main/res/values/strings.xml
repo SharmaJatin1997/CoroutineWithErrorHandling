@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutinesWithErrorHandling</string>
+    <string name="exception_handler">ExceptionHandler</string>
+    <string name="ignore_error_and_continue">Ignore Error And Continue</string>
+</resources>
